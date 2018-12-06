@@ -19,19 +19,6 @@ There are three projects that need to be hosted together and configured to inter
 
 PR for Sacramento Changes: https://github.com/opencivicdata/scrapers-us-municipal/pull/243
 
-## BankON Sacramento
-
-Bank On’s goal is to ensure that everyone has access to a safe and affordable bank or credit union account.  This project is building a map of branches that offer these accounts to be displayed on United Way's website.  We'd like this for Sacramento, but it would be great to support mapping nation wide.
-
-Champion: Needed
-
-Help Needed:
-- Champion
-- Javascript experience
-
-Resources:
-https://github.com/sfbrigade/SFOFE-BankOn
-
 ## OpenBudgetSac
 
 Displays city budgetary information and allows exploration of the data.  We have one application in the project updated with the new data, but the other applications need to be updated as well.
@@ -44,3 +31,4 @@ Help Needed:
 
 Resources:
 https://github.com/code4sac/openbudgetsac.org
+issue: https://github.com/code4sac/openbudgetsac.org/issues/2
